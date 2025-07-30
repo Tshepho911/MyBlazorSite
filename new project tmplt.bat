@@ -1,0 +1,1 @@
+dotnet new blazorwasm -o MyBlazorApp --framework net8.0
